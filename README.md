@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ErasmoE-Dev/ErasmoE-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>olá me chamo Erasmo, sou um programador front end no momento ( futuramento desejo ser full stack) , atualmente estou criando e desenvolvendo projetos em:</h3>
+<br>
+  
+- HTML
+- CSS
+- JAVASCRIPT: em andamento
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
